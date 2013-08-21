@@ -5,4 +5,4 @@ A Boilerplate vst audio effect with a bash script to build and install, for even
 
 Built and tested on OSX Mountain Lion. YMMV
 
-Forked from example files by Victor Lazzarinni. 
+With much help from Victor Lazzarinni. 
